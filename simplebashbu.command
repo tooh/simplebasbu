@@ -12,7 +12,7 @@
 # hard drive.
 # Version   Author          Date
 # v0.02     Peter Florijn   15-5-2011 
-# 
+# v0.03
 # Modified for use on OSX
 # Modifications:
 # - OSX tar version does not support label option
